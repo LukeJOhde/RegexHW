@@ -57,8 +57,5 @@ Greedy and Lazy Match
 example: [a-f0-9]{6}
 
 A greedy match means the regex is going to find the longest possible string while a lazy match is looking for the shortest possible string. Adding the ? to make the # option in /^#?([a-f0-9]{6}|[a-f0-9]{3})$/ allows for more matches making the match a greedy match.
-
-Author
-Danielle Cavinder is a Junior Web Developer and Software Engineer. She has a passion for UX/UI developement and hopes to use a combination of her design background and smart coding to create beautiful and user friendly applications in the future.
-
+Luke Ohde
 GitHub: https://github.com/LukeJOhde
